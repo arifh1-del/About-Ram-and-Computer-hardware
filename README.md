@@ -1,2 +1,7 @@
 # About-Ram-and-Computer-hardware
 Title: Understanding Computer RAM  Tags: [RAM, Memory, Computer Hardware, Data Storage]  Introduction: RAM is an important part of a computer because it temporarily stores data and programs while the computer is running. This blog explains how RAM works, why it matters, and how it affects computer performance.
+RAM matters because it directly affects how well a computer performs. For example, when someone opens multiple applications, plays games, or browses the internet, the computer uses RAM to handle these activities. If a computer does not have enough RAM, it may become slow, freeze, or take longer to open programs. Having more RAM can help a computer manage several tasks at the same time.
+
+There are different types of RAM, including DDR4 and DDR5. These technologies provide different speeds and performance levels. Modern computers often use DDR5 because it offers improved performance and faster data transfer compared to older memory technologies. Choosing the right amount and type of RAM is important when building or upgrading a computer.
+
+This blog will explain how RAM works, why it is important, and how it affects computer performance. It will also discuss the differences between RAM and permanent storage devices such as SSDs and hard drives. The main question this blog will answer is: How does RAM improve computer speed and overall performance?
